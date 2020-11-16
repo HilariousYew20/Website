@@ -1,0 +1,36 @@
+#heading div {
+    background-color: black;
+    width: device-width;
+    height: auto;
+}
+#navbar div {
+   /* background-color: black;*/
+    width: device-width;
+    height: auto;
+}
+.light {
+    /*background-color : black;*/
+    color : lightskyblue;
+}
+hr.green {
+    border : 3px solid white;
+    border-radius: 2px;
+}
+.navBut {
+  color: white;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  width: 85px;
+  height: 40px;
+  border: 2px solid white;
+  border-radius: 60px;
+  transition-duration: 0.4s;
+  float: right;
+  margin-right: 5px;
+}
+.navBut:hover {
+    border: 3px solid black;
+}
+#big h1{
+    font-size: 50px;
+}
